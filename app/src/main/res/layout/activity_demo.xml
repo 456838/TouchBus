@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.salton123.touchbus.MobileLiveRecieveTouchView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <FrameLayout
+        android:id="@+id/businessLayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        />
+    
+    <FrameLayout
+        android:id="@+id/giftLayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        />
+
+    <FrameLayout
+        android:id="@+id/videoLayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        />
+
+
+</com.salton123.touchbus.MobileLiveRecieveTouchView>
